@@ -1,6 +1,6 @@
-# Frosty New Prototype
+# Frosty New Prototype - Dodge the creeps!
 
 ## Description
 
-This is a sample project description.
+This game was created by following the Godot official docs 2d tutorial.
 
